@@ -155,7 +155,7 @@ h2 {
   margin-bottom: 25px;
 }
 
-.card .button, .card .boton {
+.card .button {
   background-color: #5E503F;
   color: white;
   text-decoration: none;
@@ -165,7 +165,7 @@ h2 {
   border-radius: 30px;
   transition: 0.4s;
 }
-.card .button:hover, .card .boton:hover {
+.card .button:hover {
   background-color: transparent;
   border: 2px solid #F8EFD4;
   cursor: pointer;
@@ -352,7 +352,7 @@ input:focus ~ .barra::before, textarea:focus ~ .barra::before {
   left: 0%;
 }
 
-.button, .boton {
+.button1, .boton {
   display: block;
   width: 100px;
   height: 40px;
