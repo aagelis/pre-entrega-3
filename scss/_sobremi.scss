@@ -1,0 +1,33 @@
+.proyecto {
+    margin: 0px 10px 10px 10px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+  
+    p {
+      height: 200px;
+      width: 250px;
+    }
+  }
+  
+  p {
+    @include colorParrafo
+  }
+  
+  h1 {
+    @include colorTitulo
+  }
+  
+  .text-center {
+    margin-top: 30px;
+  }
+  
+  .fotomia {
+    width: 500px;
+    height: 680px;
+    padding-bottom: 500px;
+    padding-top: 50px;
+  }
+  
+  .sobremip {
+    margin-top: 30px;
+  }

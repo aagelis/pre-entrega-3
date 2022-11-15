@@ -3,14 +3,12 @@
     justify-content: center;
     margin-top: 0.4em;
     color: #EAE0D5;
-    font-family: 'Ubuntu', sans-serif;
   }
   
   .subtitulo {
     display: flex;
     justify-content: center;
-    color: #F8EFD4;
-    font-family: 'Ubuntu', sans-serif;
+    color: $color-principal;
   }
   
   .hero {

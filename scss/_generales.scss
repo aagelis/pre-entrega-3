@@ -1,12 +1,15 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
-
-
+/* Variables */
+$color-principal: #F8EFD4;
 
 @mixin colorParrafo {
   color: #22333B;
 }
 
+@mixin colorTitulo {
+  color: #0b1d25;
+}
 
 
 body {
@@ -19,14 +22,12 @@ body {
   }
   
   .nombreLogo {
-    color: #F8EFD4;
-    font-family: 'Fira Sans', sans-serif;
+    color: $color-principal;
     font-size: larger;
   }
   
   .nav-link {
-    color: #F8EFD4;
-    font-family: 'Ubuntu', sans-serif;
+    color: $color-principal;
   }
   
   .footer-basic {
@@ -103,3 +104,4 @@ body {
     display: flex;
     justify-content: center;
   }
+
