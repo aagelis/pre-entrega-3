@@ -15,3 +15,7 @@
 .boton:hover{
     color: grey;
 }
+
+.boton{
+    @extend .button
+}
