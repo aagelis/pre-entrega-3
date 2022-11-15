@@ -384,12 +384,8 @@ button {
     width: 90%;
   }
 }
-.boton {
-  padding-bottom: 134px;
-}
-
-.btn {
-  margin-bottom: 100px;
+.faqs {
+  padding-bottom: 101px;
 }
 
 .input-group-1 {
@@ -398,6 +394,10 @@ button {
 
 .comentario {
   width: 400px;
+}
+
+.boton:hover {
+  color: grey;
 }
 
 /*# sourceMappingURL=estilo.css.map */
