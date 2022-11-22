@@ -392,7 +392,7 @@ input:focus ~ .barra::before, textarea:focus ~ .barra::before {
   }
 }
 .faqs {
-  padding-bottom: 101px;
+  padding-bottom: 120px;
 }
 
 .input-group-1 {
