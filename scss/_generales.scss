@@ -25,15 +25,21 @@ body {
     color: $color-principal;
     font-size: larger;
     text-decoration: none;
+    &:hover {
+      color: #22333B;
+      
+    }
   }
   
   .nav-link {
     color: $color-principal;
+    &:hover {
+      color: #22333B;
+      
+    }
   }
 
-  a {
-    color: #5e503f;
-  }
+
   
   .footer-basic {
     padding: 79px;
@@ -60,6 +66,7 @@ body {
   
       &:hover {
         opacity: 1;
+        
       }
     }
   

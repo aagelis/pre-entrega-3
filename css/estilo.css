@@ -14,13 +14,15 @@ header {
   font-size: larger;
   text-decoration: none;
 }
+.nombreLogo:hover {
+  color: #22333B;
+}
 
 .nav-link {
   color: #F8EFD4;
 }
-
-a {
-  color: #5e503f;
+.nav-link:hover {
+  color: #22333B;
 }
 
 .footer-basic {
