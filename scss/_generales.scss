@@ -24,10 +24,15 @@ body {
   .nombreLogo {
     color: $color-principal;
     font-size: larger;
+    text-decoration: none;
   }
   
   .nav-link {
     color: $color-principal;
+  }
+
+  a {
+    color: #5e503f;
   }
   
   .footer-basic {
