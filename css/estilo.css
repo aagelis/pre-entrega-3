@@ -301,7 +301,7 @@ h1 {
 
 input, textarea {
   background: none;
-  color: rgb(0, 0, 0);
+  color: rgb(247, 247, 247);
   font-size: 18px;
   padding: 10px 10px 10px 5px;
   display: block;
@@ -373,17 +373,17 @@ input:focus ~ .barra::before, textarea:focus ~ .barra::before {
 
 @media screen and (max-width: 1100px) {
   .form1 {
-    width: 50%;
+    width: 80%;
   }
 }
 @media screen and (max-width: 600px) {
   .form1 {
-    width: 60%;
+    width: 80%;
   }
 }
 @media screen and (max-width: 450px) {
   .form1 {
-    width: 80%;
+    width: 90%;
   }
 }
 @media screen and (max-width: 300px) {
