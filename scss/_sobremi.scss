@@ -23,11 +23,18 @@
   
   .fotomia {
     width: 500px;
-    height: 680px;
-    padding-bottom: 500px;
+    height: 601px;
     padding-top: 50px;
   }
-  
+  @media (max-width: 350px){
+    .fotomia{
+      width: 500px;
+    height: 280px;
+    padding-bottom: 200px;
+    margin-bottom: 100px;
+    padding-top: 50px;
+    }
+  }
   .sobremip {
     margin-top: 30px;
   }

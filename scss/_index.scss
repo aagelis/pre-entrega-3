@@ -1,26 +1,26 @@
 .titulo {
-    display: flex;
-    justify-content: center;
-    margin-top: 0.4em;
-    color: #EAE0D5;
-  }
-  
-  .subtitulo {
-    display: flex;
-    justify-content: center;
-    color: $color-principal;
-  }
-  
-  .hero {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    flex-direction: column;
-    height: 80vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)), url(../media/james-harrison-vpOeXr5wmR4-unsplash.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    padding: 1216;
-  }
+  display: flex;
+  justify-content: center;
+  margin-top: 0.4em;
+  color: #EAE0D5;
+}
+
+.subtitulo {
+  display: flex;
+  justify-content: center;
+  color: $color-principal;
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  height: 80vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)), url(../media/james-harrison-vpOeXr5wmR4-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding: 1216;
+}
