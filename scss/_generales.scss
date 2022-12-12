@@ -38,11 +38,6 @@ header {
 
 .nav-link {
   color: $color-principal;
-  transition: transform .4s;
-  &:hover {
-    color: #22333B;
-    transform: scale(1.3)
-  }
 }
 
 
@@ -83,10 +78,6 @@ header {
     text-decoration: none;
     font-size: 20px;
 
-    &:hover {
-      transform: scale(1.3);
-      transition: .3s;
-    }
   }
 }
 
